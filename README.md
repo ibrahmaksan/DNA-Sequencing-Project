@@ -1,2 +1,3 @@
 # DNA-Sequencing-Project
-Hesaplamalı biyoloji dersi kapsamında yapmış olduğum DNA sekanslama projesi.
+
+In this project, we aimed to detect nucleotide sequences on a given DNA.
